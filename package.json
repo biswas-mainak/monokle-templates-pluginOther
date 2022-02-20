@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Mainak Biswas",
-    "repository": "https://github.com/Mainak99/monokle-templates-plugin",
+    "repository": "https://github.com/biswas-mainak/monokle-templates-plugin",
     "monoklePlugin": {
       "modules": [
         {
