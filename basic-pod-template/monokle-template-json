@@ -1,6 +1,6 @@
 {
   "name": "Basic Kubernetes Pod",
-  "id": "com.github.Mainak99.plugin.templates.basic-pod-template",
+  "id": "com.github.biswas-mainak.plugin.templates.basic-pod-template",
   "author": "Mainak Biswas",
   "version": "1.0.0",
   "description": "Creates a Pod for a specified Image",
@@ -20,5 +20,5 @@
     }
   ],
   "resultMessage": "Pod resource created successfully!",
-  "helpUrl": "https://github.com/Mainak99/monokle-templates-plugin"
+  "helpUrl": "https://github.com/biswas-mainak/monokle-templates-plugin"
 }
