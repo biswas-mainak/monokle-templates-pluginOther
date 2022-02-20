@@ -1,15 +1,18 @@
 {
-    "name": "Template plugins",
-    "description": "Custom templates plugin",
-    "version": "1.0.0",
-    "author": "Mainak Biswas",
-    "repository": "https://github.com/biswas-mainak/monokle-templates-plugin",
-    "monoklePlugin": {
-      "modules": [
-        {
-          "type": "template",
-          "path": "basic-pod-template"
-        }
-      ]
-    }
+  "name": "Templates plugin",
+  "author": "Mainak Biswas",
+  "version": "1.0.0",
+  "description": "Custom templates plugin",
+  "license": "MIT",
+  "repository": "https://github.com/biswas-mainak/monokle-templates-plugin",
+  "monoklePlugin": {
+    "id": "com.biswas-mainak.plugins.templates",
+    "helpUrl": "https://github.com/biswas-mainak/monokle-templates-plugin",
+    "modules": [
+      {
+        "type": "template",
+        "path": "basic-pod-template"
+      }
+    ]
   }
+}
